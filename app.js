@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Este é um exemplo de deply!
+      Este é um exemplo de deploy!
     </section>
   </body>
 </html>
